@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://img.shields.io/badge/Khatibullah%20Rahel-303948?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=303948" alt="Khatibullah Rahel Badge" height="90"/>
+ <img src="https://img.shields.io/badge/KHATIBULLAH%20RAHEL-303948?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=303948" height="90"/>
 </h1>
 
 <h2 align="center">Software Engineer | Full-Stack | AI Product Builder</h2>
@@ -21,8 +21,6 @@ I focus on designing systems, driving projects from idea to production, and deli
 🚀 **Current Focus:** AI-powered applications, backend architecture, and scalable system design  
 💼 **Open to:** Frontend / Backend / Full-Stack Software Engineering roles | AI-Driven Applications
 
----
-
 ## 🛠️ Tech Stack
 
 **Languages**  
@@ -42,10 +40,6 @@ Vitest, React Testing Library, MSW, msw-data, API testing (Postman)
 
 **Tools & DevOps**  
 Git, GitHub, Docker, Vercel, Netlify, Render
-
----
-
----
 
 ## 🚀 Projects
 
