@@ -1,103 +1,106 @@
-<!-- Typing SVG (Centered) -->
-<!-- <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Khatibullah+Rahel+👋;MERN+Full-Stack+Developer;Building+PWAs+%26+APIs;Always+Learning+%26+Exploring" alt="Typing SVG" />
-</div> -->
-
 <h1 align="center">
   <img src="https://img.shields.io/badge/Khatibullah%20Rahel-303948?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=303948" alt="Khatibullah Rahel Badge" height="90"/>
 </h1>
 
-
-
-
-
-
-
+<h2 align="center">Software Engineer | Full-Stack | AI Product Builder</h2>
 
 ## 💻 About Me
 
-I build production-ready web apps and progressive web apps (PWAs) with a focus on **performance**, **accessibility**, and developer-friendly tooling.
-**Core:** JavaScript (ES6+), Node.js, Express, MongoDB, React  
-**Looking for:** Backend / Full-Stack roles where I can ship APIs, PWA features, and dev tooling.
+Software Engineer with experience in full-stack development, project management, and building production-ready applications.
 
-<!-- <h1 align="center">Khatibullah Rahel</h1> -->
-<!-- <h3 align="center">Passionate MERN Full-Stack Developer | PWA Enthusiast | API Builder</h3> -->
+I work across **TypeScript, React, Next.js, React Native, Node.js, MongoDB, and PostgreSQL**, focusing on scalable architecture, performance, and practical AI integrations.
 
+I focus on designing systems, driving projects from idea to production, and delivering real-world solutions using modern asynchronous and scalable architectures.
 
-- 🔭 Currently building **AI-Driven Language Learning PWA**  
-- 🌱 Exploring **Next.js, Prisma, and backend architecture**  
-- 🛠️ Strong in **JavaScript, Node.js, and MongoDB**  
-- ⚡ Fun fact: I solve algorithms in **JavaScript daily**  
+- Building and shipping production apps used in real scenarios
+- Integrating AI into products in practical, user-focused ways
+- Strong in system design, product thinking, and execution
+- Experience with testing, debugging, and maintaining production systems
+- Comfortable working across engineering, product, and delivery
+
+🚀 **Current Focus:** AI-powered applications, backend architecture, and scalable system design  
+💼 **Open to:** Frontend / Backend / Full-Stack Software Engineering roles | AI-Driven Applications
 
 ---
 
 ## 🛠️ Tech Stack
 
-#### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+**Languages**  
+JavaScript (ES6+), TypeScript, SQL, HTML5, CSS3
 
-#### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white)
-![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?logo=chakra-ui&logoColor=white)
-![Navigo](https://img.shields.io/badge/Navigo-000000?logo=javascript&logoColor=white)
-![Nano Stores](https://img.shields.io/badge/Nano_Stores-0081CB?logo=javascript&logoColor=white)
+**Frontend**  
+React, Next.js, React Native, Vite, Tailwind CSS, Sass
 
-#### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)
+**Backend**  
+Node.js, Express, REST APIs, Prisma, Mongoose
 
-#### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-4DB33D?logo=mongodb&logoColor=white)
+**Database**  
+MongoDB, PostgreSQL, MongoDB Atlas
 
-#### DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-![Service Workers](https://img.shields.io/badge/Service_Workers-FF9800?logo=googlechrome&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?logo=chart.js&logoColor=white)
+**Testing**  
+Vitest, React Testing Library, MSW, msw-data, API testing (Postman)
+
+**Tools & DevOps**  
+Git, GitHub, Docker, Vercel, Netlify, Render
+
+---
 
 ---
 
 ## 🚀 Projects
 
-- 📝 [Taskly Pro](https://github.com/rahel-webdeveloper/taskly) — AI-powered Task Management PWA  
-- 💳 [Subscription Tracker API](https://github.com/rahel-webdeveloper/subscription-tracker) — REST API for subscription management  
-- 🎮 [GameHub](https://github.com/rahel-webdeveloper/game-hub-rahel) — Video game discovery app  
-<!-- 
+### 🟣 Latoon Packages
+
+A full-stack social platform built from scratch as a monorepo workspace.
+
+I worked on this as both an engineer and project manager, helping shape the product, architecture, and delivery flow. The workspace includes a Next.js client, Bun + Express API, shared contracts, and a reusable UI package.
+
+**Tech used:** Next.js 16, React 19, Bun, Express, MongoDB, Mongoose, Better Auth, TanStack Query, Supabase, Zod, TypeScript, next-intl
+
+**Highlights:**
+
+- Authentication and session management
+- Feed, post, comment, like, save, and share flows
+- Shared types and validation across client and server
+- Modular monorepo structure with clear package boundaries
+- Multilingual support and scalable backend layering
+
+### 🛡️ Cyber-Trust MS
+
+A full-stack dashboard application for internal business management.
+
+Built this project from scratch with a focus on role-based access control, modular structure, and clean data flow. It includes an admin-style dashboard for managing employees, projects, tasks, costs, and quotations.
+
+**Tech used:** React, Chakra UI, Bun, Express, MongoDB, Mongoose, Zustand, React Query, Axios, TypeScript, Faker.js
+
+**Highlights:**
+
+- Role-based access control for Admin, Manager, and Developer
+- JWT authentication with token refresh handling
+- Modular dashboard sections for business workflows
+- Seeded development data for fast local setup
+- Clean client/server separation
+
+### 🤖 AI Resume Analyzer
+
+An AI-powered resume analysis tool that compares resumes with job descriptions and provides actionable feedback.
+
+Built to help users identify skill gaps, improve resume quality, and better match ATS/job requirements. This project focuses on NLP-driven analysis, scoring, and guidance.
+
+**Tech used:** React, TypeScript, Tailwind CSS, Vite, Zustand, NLP/AI libraries
+
+**Highlights:**
+
+- Resume parsing and text extraction
+- Keyword matching and match scoring
+- Skill gap analysis
+- AI-based improvement suggestions
+- Dashboard and analytics features in progress
+
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Rahel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahel-webdeveloper&show_icons=true&theme=tokyonight)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahel-webdeveloper&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=rahel-webdeveloper&theme=tokyonight&hide_border=false)  
-
-</div>
--->
-
 ## 🤝 Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/khatibullahrahel)  
-- 🌐 [Portfolio](https://rahel-portfolio-one.vercel.app)  
-- 📧 khatibullahrahel25@gmail.com  
 
-
-
-<!-- ![Visitors](https://komarev.com/ghpvc/?username=rahel-webdeveloper&label=Profile%20views&color=0e75b6&style=flat) -->
+- 💼 LinkedIn: https://www.linkedin.com/in/khatibullahrahel
+- 🌐 Portfolio: https://rahel-portfolio-one.vercel.app
+- 📧 Email: khatibullahrahel25@gmail.com
